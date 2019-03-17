@@ -1,14 +1,13 @@
 ## To complete assignment
 
-In src/homework-functions.js there are named functions to be created.
-Follow the prompt in the comments of each function to complete it.
-In src/App.test.js there are 8 tests that will check your functions for successful execution.
+1. In src/homework-functions.js
+2. Follow the prompt in the comments of each function.
 
-Install using `yarn install` or `npm install`.
+## Testing
 
-To test your work, run `yarn test` or `npm run test`
+use `yarn test` or `npm run test` to run test suite
+use `console.log` to output to the terminal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+If you are curious about React, use the below link, take a look around the Repo, and try things!
 
-I doesn't use much of it, but if you are curious about React, use the above link,
-take a look around the Repo, and try things!
+[Create React App](https://github.com/facebook/create-react-app).

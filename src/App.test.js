@@ -68,7 +68,7 @@ const matrix = [
 // ]
 
 test('logs the perimeter numbers in a matrix', () => {
-  expect(findPerimeter(matrix)).toEqual([1,2,3,4,5,1,1,4,8,7,2,4,3,9,5,3,1])
+  expect(findPerimeter(matrix)).toEqual([1,2,3,4,5,1,1,4,8,7,2,4,3,9,5,3])
 })
 
 // test('logs the perimeter numbers in the bonus matrix', () => {

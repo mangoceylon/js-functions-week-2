@@ -68,26 +68,6 @@ return sides
 
 }
 
-
-
-  // const makeLeftEdge = (m) => {
-  //   const edgeArray = []
-  //   for (let i = 1; i < m.length; i++) {
-  //     edgeArray.push(m[m.length - i][0])
-  //   }
-  //   return edgeArray
-  // }
-  // const wholePerimeter = makeThreeEdges(matrix)
-  // const leftSide = makeLeftEdge(matrix)
-  // const result = wholePerimeter.concat(leftSide)
-
-
-  // return result
-
-  // console.log(perimeter)
-
-
-
 module.exports = {
   sum: sum,
   multiply: multiply,
@@ -96,3 +76,4 @@ module.exports = {
   countOccurance: countOccurance,
   findPerimeter: findPerimeter
 }
+// const functions = require('../public/src/test/js');
