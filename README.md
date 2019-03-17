@@ -4,7 +4,7 @@
 
 ## Testing
 
- - use `yarn test` or `npm run test` to run test suite
+ - use `yarn` and `yarn test` or `npm install` and `npm run test` to run test suite
  - use `console.log` to output to the terminal
 
 This project was bootstrapped using Create React App.
