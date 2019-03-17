@@ -1,7 +1,6 @@
 ## To complete assignment
 
-1. In src/homework-functions.js
-2. Follow the prompt in the comments of each function.
+1. In `src/homework-functions.js`, follow the prompt in the comments of each function.
 
 ## Testing
 
