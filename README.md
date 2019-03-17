@@ -10,6 +10,6 @@
 This project was bootstrapped using `create react app`. We will be covering React in the weeks
 to come.
 
-If you are curious about React, use the below link, take a look around the Repo, and try things!
+If you are curious about React, use the below link, take a look around, and try things!
 
 [Create React App](https://github.com/facebook/create-react-app).
