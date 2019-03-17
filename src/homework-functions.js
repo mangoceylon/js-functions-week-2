@@ -22,7 +22,7 @@ function countOccurance(a, b) {
 
 
 function findPerimeter(matrix) {
-  // take a matrix ( an array inside of an array) such as
+  // take a matrix/2D array ( an array inside of an array) such as
   // [
   //  [1,2,3,4,5],
   //  [1,2,3,4,5],
@@ -33,7 +33,11 @@ function findPerimeter(matrix) {
   // in this case it would be
   // [1,2,3,4,5,5,5,6,3,2,1,1]
   //
-  
+  //
+  //  Bonus: take a matrix/2D array of aribtrary sizes and traverse the perimeter
+  //  call it findPerimeterBonus, export it correctly, import it correctly to App.test.js
+  //  then un-comment the bonus test
+
 }
 
 
