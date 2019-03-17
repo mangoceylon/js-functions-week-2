@@ -7,7 +7,8 @@
  - use `yarn` and `yarn test` or `npm install` and `npm run test` to run test suite
  - use `console.log` to output to the terminal
 
-This project was bootstrapped using Create React App.
+This project was bootstrapped using `create react app`. We will be covering React in the weeks
+to come.
 
 If you are curious about React, use the below link, take a look around the Repo, and try things!
 
